@@ -12,7 +12,7 @@ It was hacked down in one evening... bare with me for some "spaghetti code" ;)
 
 ## Circuit Layout
 
-![Circuit](Schaltplan.png)
+![Circuit](Schaltung.png)
 
 ## Instructions
 
