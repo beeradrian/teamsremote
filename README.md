@@ -14,6 +14,9 @@ It was hacked down in one evening... bare with me for some "spaghetti code" ;)
 
 ## Instructions
 * Print the five 3D Parts (also published here: https://www.thingiverse.com/thing:4788070)
+* Paint the printed Parts as you like
+* Solder everything as shown in the circuit bellow.
+* Glue the mic, hand and cam parts onto the buttons.
 * Install the needed Arduino librarys (Adafruit_NeoPixel, Bounce2)
 * Compile and load the ino to your Arduino Nano
 * Open the Visual Studio Solution (sln) install all nuget packages an run the thing on your PC...
