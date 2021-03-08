@@ -13,6 +13,7 @@ It was hacked down in one evening... bare with me for some "spaghetti code" ;)
 ![Green](green.JPG)
 
 ## Instructions
+* Print the five 3D Parts
 * Install the needed Arduino librarys (Adafruit_NeoPixel, Bounce2)
 * Compile and load the ino to your Arduino Nano
 * Open the Visual Studio Solution (sln) install all nuget packages an run the thing on your PC...
